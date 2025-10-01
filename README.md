@@ -1,20 +1,9 @@
 # Data Science Projects Through TripleTen
 
-1) Customer Grocery Shopping Habits
 
-Objective: To analyze five datasets from the grocery delivery platform Instacart to provide stakeholders with insights into the shopping habits of Instacart customers.
+1) Video Game Sales Forecasting
 
-Skills Demonstrated: Data cleaning, data exploration, descriptive analysis, market basket analysis, and consumer insight generation
-
-2) Which Telecom Plan Is More Profitable?
-
-Objective: To conduct a preliminary analysis as well as hypothesis testing for the phone and internet provider Megaline using five datasets of client behavior to determine whether the Surf or the Ultimate prepaid plan generates more revenue.
-
-Skills Demonstrated: Data preprocessing, exploratory data analysis, feature engineering, hypothesis testing, and consumer insight generation
-
-3) Video Game Sales Analysis and Forecasting
-
-Objective: To conduct a comprehensive analysis of video game sales data for Ice, an online, worldwide video game store, to assist stakeholders with predicting the most successful video game releases for the upcoming calendar year.
+The objective of this project is to assist the ICE store, an online video game store that sales worldwide, identifying patters in their historical data with the goal of preparing for year 2017.
 
 Skills Demonstrated: Data preprocessing, exploratory data analysis, profile creation, hypothesis testing, and consumer insight generation
 
