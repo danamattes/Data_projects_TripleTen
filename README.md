@@ -1,73 +1,28 @@
 # Data Science Projects Through TripleTen
 
 
-1) Video Game Sales Forecasting
+1) Video Game Sales - Sales forecast
 
-The objective of this project is to assist the ICE store, an online video game store that sales worldwide, identifying patters in their historical data with the goal of preparing for year 2017.
+The objective of this project is to assist the ICE store, an online video game store that sales worldwide, performing a comprehensive analysis of their video game sales data in order to prepare their marketing strategy for year 2017. They are particularly interested in spotting potential top selling games, as well as the public's preferred genre and platforms, and whether these preferences change according to the client's geographic location. 
 
 Skills Demonstrated: Data preprocessing, exploratory data analysis, profile creation, hypothesis testing, and consumer insight generation
 
-4) Strategically Launching a Ride Share Company
 
-Objective: To analyze Chicago's taxi and ride-sharing market by identifying the top neighborhoods for dropoffs, assessing the rankings of Chicago-based taxi companies based on ride frequency, and investigating the impact of weather conditions on ride duration to support Zuber, a new ride-sharing company, in making strategic decisions for their launch in the city.
+2) OilyGiant - Selecting the region with the highest profit margin
 
-Skills Demonstrated: SQL, descriptive statistics, data visualization, hypothesis testing, and consumer insight generation
-
-5) Which Telecom Plan Is Right For You?
-
-Objective: To develop a machine learning model that can accurately predict for subscribers to the mobile carrier Megaline which of the two new plans (Smart or Ultra) they should switch to based on their phone and internet usage.
-
-Skills Demonstrated: Machine learning and model evaluation
-
-8) Forecasting Bank Customer Retention and Churn
-
-Objective: To develop a machine learning model for Beta Bank that uses data of customers' demographics and behaviors to predict whether or not a customer is likely to leave the bank soon (since retaining existing customers is more cost-effective than acquiring new ones).
-
-Skills Demonstrated: Class imbalance handling (upsampling vs downsampling), data encoding, and model evaluation
-
-9) Oil Well Development Profitability and Risk Assessment
-
-Objective: To determine which among three regions strikes the best balance between being a profitable and a low-risk location for the development of new oil wells by the mining company OilyGiant.
+OilyGiant is looking for a the best location for a new well. For this matter, three areas have been pre-selected. The information of these areas will be analyzed in order to identify the area with the biggest amount of reserves, as well as perform a risk assessment. 
 
 Skills Demonstrated: Linear regression, data interpretation, bootstrapping, profit maximization, and risk assessment
 
-10) Predictive Modeling for Gold Recovery
 
-Objective: To develop a prototype machine learning model for Zyfra, a company that develops efficiency solutions for heavy industry, that predicts the amount of gold recovered from ore during the extraction and purification processes so that Zyfra can optimize product efficiency and identify unprofitable parameters.
+3) Rusty Bargain - Estimating Market Value of Used Cars
 
-Skills Demonstrated: Data evaluation, data visualization, kernel density estimation (KDE), cross-validation, and model evaluation
-
-11) Predicting Insurance Benefits and Data Masking
-
-Objective: To leverage linear regression analysis, the k-nearest neighbors (KNN) algorithm, and linear algebra to assist Sure Tomorrow insurance company with customer segmentation, benefits prediction, and data privacy protection.
-
-Skills Demonstrated: Linear regression, k-nearest neighbors (KNN), linear algebra, data obfuscation, and mathematical proof
-
-12) Estimating Market Value of Used Cars
-
-Objective: To develop a machine learning model for Rusty Bargain, a used car sales company that is building an app intended to accurately and swiftly predict the market value of used cars.
+Rusty Bargain is developing an app where you can quickly find out the market value of your car. We were tasked to create a machine learning model that predicts this information. 
 
 Skills Demonstrated: Exploratory data analysis, data encoding and scaling, gradient boosting algorithms (CatBoost, LightGBM, and XGBRegressor), wall time optimization, and model performance analysis
 
-13) Optimizing Taxi Driver Allocation
 
-Objective: To analyze time series data on taxi orders at airports and to develop a predictive model capable of accurately forecasting the number of taxi orders for the next hour, thereby allowing Sweet Lift Taxi to optimize driver allocation during peak hours.
-
-Skills Demonstrated: Time series analysis, resampling, data visualization, feature engineering, and model evaluation
-
-14) Classifying Written Movie Reviews
-
-Objective: To develop a model for the Film Junky Union, a community of classic movie enthusiasts, that is capable of classifying IMDB movie reviews as positive or negative with high accuracy.
-
-Skills Demonstrated: Data preprocessing, exploratory data analysis, data visualization, text processing (text cleaning, lemmatization, and vectorization), and model evaluation
-
-15) Ensuring Legal Drinking Age Compliance
-
-Objective: To develop and assess the efficacy of a computer vision model aimed at verifying the age of customers in the checkout area of Good Seed supermarkets in order to prevent the sale of alcohol to underage individuals.
-
-Skills Demonstrated: Computer vision techniques (e.g. horizontal flips, zooming, and rotation), model architecture selection, optimization algorithm (Adam) deployment, and model evaluation
-
-16) Forecasting Telecom Customer Retention and Churn
+4) Forecasting Telecom Customer Retention and Churn
 
 Objective: To develop a machine learning model for the telecom operator Interconnect that uses data of customers' contract details, internet usage, phone usage, and demographic information to predict customer churn, thereby allowing Interconnect to offer promotional codes and special plan options to customers who are expected to leave.
 
